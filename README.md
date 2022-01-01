@@ -1,4 +1,4 @@
-# CaesarCipher
+# Caesar Cipher
 Encryption and Decryption Using Caesar Cipher - This code takes a .txt file, reads it and encrypts/decrypts it with the shift given by the user, saving the result into a new .txt file.
 
 # How to use
